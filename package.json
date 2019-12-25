@@ -1,0 +1,25 @@
+{
+  "name": "vue-for-everyone",
+  "version": "1.0.0",
+  "description": "vue guide",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "doc": "docsify serve ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acribus/vue-for-everyone.git"
+  },
+  "author": "fjywan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acribus/vue-for-everyone/issues"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.0"
+  },
+  "homepage": "https://github.com/acribus/vue-for-everyone#readme"
+}
